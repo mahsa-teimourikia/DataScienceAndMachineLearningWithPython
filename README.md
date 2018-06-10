@@ -7,4 +7,5 @@ Some good courses and materials that are really helpful to start the machine lea
 - Data Science Foundations: Python Scientific Stack course in Linkdin Learning
 - Data Science specialization in Coursera
 - The book: An Introduction to Statistical Learning, legal free copy can be found at: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+- Model selection reference: http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 - This list will be updated...
