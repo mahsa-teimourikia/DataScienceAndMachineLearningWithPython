@@ -9,3 +9,6 @@ Some good courses and materials that are really helpful to start the machine lea
 - The book: An Introduction to Statistical Learning, legal free copy can be found at: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 - Model selection reference: http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 - This list will be updated...
+
+## Using Jupyter Notebooks:
+- A mini-tutorial is added with my notes on Jupyter 101 for beginners, the main source used to make this tutorial is the "Python for Data Science and Machine Learning Bootcamp" course on Udemy
